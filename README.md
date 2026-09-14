@@ -8,7 +8,7 @@ Spring 2026.
 
 ## Contents
 
-- `report.pdf` — full report (in Persian; all figures and equations are in English/standard notation)
+- `fractional-brownian-motion-sp500.pdf` — full report (in Persian; all figures and equations are in English/standard notation)
 - `code/` — Python implementation (NumPy, SciPy, Matplotlib)
 - `figures/` — generated figures
 
